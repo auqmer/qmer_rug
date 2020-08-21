@@ -10,5 +10,3 @@ This page contains links to various topics covered in workshops and tutorials ho
 * [TutoR](https://auqmer.github.io/TutoR)
 * [ExperimenteR](https://auqmer.github.io/ExperimenteR)
 * [ModeleR](https://auqmer.github.io/ModeleR)
-
-
