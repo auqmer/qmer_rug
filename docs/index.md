@@ -9,6 +9,15 @@ This page contains links to various topics covered in workshops and tutorials ho
 
 ## QMER RUG Sites
 
-* [TutoR](https://auqmer.github.io/TutoR)
-* [ExperimenteR](https://auqmer.github.io/ExperimenteR)
-* [ModeleR](https://auqmer.github.io/ModeleR)
+#### [TutoR](https://auqmer.github.io/TutoR)
+
+Tutorials on Using R for beginner, intermediate and advanced users.
+
+#### [ExperimenteR](https://auqmer.github.io/ExperimenteR)
+
+Tutorials related to the analysis of experimental designs include t tests,
+analysis of variance, and the Chi Squared test.
+
+#### [ModeleR](https://auqmer.github.io/ModeleR)
+
+Tutorials related to linear models, including simple, multiple, logistic, an nonlinear regression.
