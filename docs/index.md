@@ -22,6 +22,6 @@ analysis of variance, and the Chi Squared test.
 
 Tutorials related to linear models, including simple, multiple, logistic, an nonlinear regression.
 
-#### [Multilevel ModeleR]((https://auqmer.github.io/MultilevelModeleR)
+#### [Multilevel ModeleR](https://auqmer.github.io/MultilevelModeleR)
 
 Tutorials related to the use of multilevel models (also known as mixed-effects or hierarchical models).
